@@ -1,8 +1,8 @@
 ================================
 Athletics - a Django application
 ================================
-:Info: See github page at <http://github.com/powellc/django-athletics>
-:Author: Colin Powell <colin.powell@me.com>
+:Info: See github page at <https://github.com/Huzaifa9559>
+:Author: Huzaifa Naseer <huzaifanaseer03@gmail.com>
 :License: None, at the moment
 
 Overview
